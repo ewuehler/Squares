@@ -1,13 +1,11 @@
 #Squares!
 
 
-This is a game I created initial just to learn Objective-C and iOS programming.  It's quite old, has been sitting dormant on my hard drive for quite a while.  I wouldn't use much if any of this as an example of good Objective-C...  I cleaned up a bit (read: _not much_) of the code (removed Flurry and OpenFeint) and made sure it compiled with iOS 5 before uploading.
+__Squares!__  is a game I created initial just to learn Objective-C and iOS programming.  It's quite old, has been sitting dormant on my hard drive for quite a while.  I wouldn't use much if any of this as an example of good Objective-C...  I cleaned up a bit (read: _not much_) of the code (removed Flurry and OpenFeint) and made sure it compiled with iOS 5 before uploading.  It did ok in the early days of the AppStore, but it was just a fun side project and I eventually ran out of time to keep it fresh and eventually pulled it from the AppStore when I just didn't think I could keep it up-to-date anymore.
 
-__"Squares!"__ did ok in the early days of the AppStore, but it was just a fun side project and I eventually ran out of time to keep it up to date and eventually pulled it from the AppStore when I just didn't think I could keep it up-to-date anymore.
+__/Squares__ is the original iPhone game
 
-__Squares__ is the original iPhone game
-
-__SuperSquares__ was a follow on I started to support the iPad and has a number "what I learned" improvements from the original - however, it was never completed (and still wouldn't use this as a good example of Objective-C). :)
+__/SuperSquares__ was a follow on I started to support the iPad and has a number "what I learned" improvements from the original - however, it was never completed (and I still wouldn't use this as a good example of Objective-C). :)
 
 ![Squares! Screenshot](http://ciretose.com/images/squares/squares1.4full.png)
 
@@ -29,10 +27,11 @@ Here are a few reviews of **Squares!** from "back in the day"...
 
 
 
-##Images
+##Image License
 Most of the images were created by friends of mine.  They are excluded from **Source Code License**.  <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a>
+
 
 ##Source Code License
 The MIT License (MIT)
