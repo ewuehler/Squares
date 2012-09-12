@@ -75,7 +75,7 @@
     UILabel *shakeLabel;
     
     UIToolbar *toolbar;
-    UIBarButtonItem *newGameButton;
+    UIBarButtonItem *playNewGameButton;
     UIBarButtonItem *shakeButton;
     UIBarButtonItem *configButton;
     UIBarButtonItem *highScoreButton;
@@ -144,7 +144,7 @@
 @property (nonatomic, retain) IBOutlet UILabel *shakeLabel;
 
 @property (nonatomic, retain) IBOutlet UIToolbar *toolbar;
-@property (nonatomic, retain) IBOutlet UIBarButtonItem *newGameButton;
+@property (nonatomic, retain) IBOutlet UIBarButtonItem *playNewGameButton;
 @property (nonatomic, retain) IBOutlet UIBarButtonItem *shakeButton;
 @property (nonatomic, retain) IBOutlet UIBarButtonItem *configButton;
 @property (nonatomic, retain) IBOutlet UIBarButtonItem *highScoreButton;

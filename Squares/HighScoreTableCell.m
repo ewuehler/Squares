@@ -54,43 +54,6 @@
     
 }
 
-/*
-- (id)initWithFrame:(CGRect)frame reuseIdentifier:(NSString *)reuseIdentifier 
-{
-    if (self = [super initWithFrame:frame reuseIdentifier:reuseIdentifier]) 
-    {
-		UIView *myContentView = self.contentView;
-        
-		self.indexLabel = [self newLabelWithPrimaryColor:[UIColor darkGrayColor] selectedColor:[UIColor darkGrayColor] fontSize:24.0 bold:NO];
-		self.indexLabel.textAlignment = UITextAlignmentCenter; 
-		[myContentView addSubview:self.indexLabel];
-		[self.indexLabel release];
-        
-		self.nameLabel = [self newLabelWithPrimaryColor:[UIColor blackColor] selectedColor:[UIColor whiteColor] fontSize:28.0 bold:NO];
-		self.nameLabel.textAlignment = UITextAlignmentLeft; 
-		[myContentView addSubview:self.nameLabel];
-		[self.nameLabel release];
-        
-		self.scoreLabel = [self newLabelWithPrimaryColor:[UIColor blackColor] selectedColor:[UIColor whiteColor] fontSize:36.0 bold:NO];
-		self.scoreLabel.textAlignment = UITextAlignmentRight; 
-		[myContentView addSubview:self.scoreLabel];
-		[self.scoreLabel release];
-        
-        self.dateLabel = [self newLabelWithPrimaryColor:[UIColor blackColor] selectedColor:[UIColor lightGrayColor] fontSize:10.0 bold:NO];
-		self.dateLabel.textAlignment = UITextAlignmentLeft; 
-		[myContentView addSubview:self.dateLabel];
-		[self.dateLabel release];
-        
-		self.levelLabel = [self newLabelWithPrimaryColor:[UIColor blackColor] selectedColor:[UIColor lightGrayColor] fontSize:10.0 bold:NO];
-		self.levelLabel.textAlignment = UITextAlignmentRight; 
-		[myContentView addSubview:self.levelLabel];
-		[self.levelLabel release];
-        
-    }
-    return self;
-}
- */
-
 - (void) setIndex:(NSNumber *)index
 {
     [self.indexLabel setText:[index stringValue]];

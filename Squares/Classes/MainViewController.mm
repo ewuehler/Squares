@@ -64,7 +64,7 @@
 @synthesize shakeLabel;
 
 @synthesize toolbar;
-@synthesize newGameButton, shakeButton, configButton, highScoreButton, helpButton;
+@synthesize playNewGameButton, shakeButton, configButton, highScoreButton, helpButton;
 
 @synthesize squareMap;
 
@@ -1695,7 +1695,7 @@ BOOL shakesAreEnabled = YES;
     [shakeLabel release];
     
     [toolbar release];
-    [newGameButton release];
+    [playNewGameButton release];
     [shakeButton release];
     [configButton release];
     [highScoreButton release];

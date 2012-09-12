@@ -115,7 +115,7 @@
     HighScoreTableCell *cell = (HighScoreTableCell *)[tableView dequeueReusableCellWithIdentifier:MyIdentifier];
     if (cell == nil) 
     {
-        cell = [[[HighScoreTableCell alloc] initWithFrame:CGRectZero
+        cell = [[[HighScoreTableCell alloc] initWithStyle:UITableViewCellStyleDefault
                                           reuseIdentifier:MyIdentifier] autorelease];
     }
     
