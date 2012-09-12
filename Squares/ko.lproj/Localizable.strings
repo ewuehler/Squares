@@ -1,0 +1,71 @@
+﻿/* 
+   Localizable.strings
+   Squares
+
+   Created by Eric on 2/9/09.
+   Copyright 2009 ciretose. All rights reserved.
+ */
+
+"PRODUCT_NAME" = "Squares 스퀘어즈";
+
+"ABOUT" = "소개";
+"HELP" = "도움말";
+"HIGH_SCORES" = "높은 점수들";
+
+"OK" = "확인";
+"CANCEL" = "취소";
+"YES" = "예";
+"NO" = "아니오";
+"CHANGE" = "바꾸기";
+"UNDO" = "취소";
+
+
+"DELETE_HIGH_SCORES" = "높은 점수들 지우기";
+"DELETE_AREYOUSURE" = "높은 점수들을 지우시겠읍니까?";
+
+"QUIT" = "그만 하기";
+"QUIT_AREYOUSURE" = "정말 놀이를 그만 하시겠읍니까?";
+
+"ANONYMOUS" = "익명";
+
+"GAME_OVER" = "놀이 끝";
+"FINAL_SCORE" = "최종 점수: %d";
+
+"LEVEL_CLEARED" = "%d 단계 완료";
+"BONUS_POINTS" = "보너스 점수: %d";
+"NO_BONUS" = "보너스 점수: 0";
+"HS_LEVEL" = " 단계: %@";
+
+"SHAKE_UP" = "흔들기";
+"CAN_UNDO" = "화살표 방향을 바꾸거나 마지막 움직임을 취소하십시오.";
+"NO_CAN_UNDO" = "화살표 방향을 바꾸시겠읍니까?";
+"SHAKES_LEFT" = "%@\n남은 흔들이 갯수: %d";
+"SHAKE_LEFT" = "%@\n남은 흔들이 갯수: 하나";
+"NO_SHAKES" = "흔들이를 다 사용하셨읍니다.";
+
+"FREE_TRIAL" = "이 스퀘어즈 놀이는 무료 평가판입니다.";
+"GAMES_LEFT" = "남은 놀이 횟수: %d";
+"BUY" = "구매";
+"PLAY" = "놀이 시작";
+
+// FlipsideView strings
+"SOUND" = "소리:";
+"DESIGNED_BY" = "디자인, 일러스트레이션: MUR";
+"DEVELOPED_BY" = "개발: ciretose";
+"TEASER" = "스퀘어즈는 조심하지 않으시면 행복에서 시작하여 슬픔으로, 어쩌면 죽음로까지 이어질수 있는 중독성이 강한 전략 놀이입니다.";
+"SHAKES" = "흔들이:";
+"FACE" = "얼굴들:";
+"DEFAULT" = "간단히";
+"CUTE" = "귀엽게";
+"OFF" = "소리없이";
+
+// MainView strings
+"SCORE" = "점수";
+"LEVEL" = "단계";
+"SHAKE" = "흔들이";
+"NEW_HIGH_SCORE" = "새로운 최고 점수!";
+
+
+// HelpView strings
+"VISIT_WEBSITE" = "웹사이트 방문하기";
+

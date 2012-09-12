@@ -1,0 +1,67 @@
+﻿/* 
+   Localizable.strings
+   Squares
+
+   Created by Eric on 2/9/09.
+   Copyright 2009 ciretose. All rights reserved.
+   
+   German translation by Jens on 3/20/09
+ */
+
+"PRODUCT_NAME" = "Squares";
+
+"ABOUT" = "Über";
+"HELP" = "Hilfe";
+"HIGH_SCORES" = "Highscores";
+
+"OK" = "OK";
+"CANCEL" = "Abbruch";
+"YES" = "Ja";
+"NO" = "Nein";
+"CHANGE" = "Ändern";
+"UNDO" = "Rückgängig";
+
+
+"DELETE_HIGH_SCORES" = "Highscores löschen";
+"DELETE_AREYOUSURE" = "Wollen Sie die Highscores wirklich löschen?";
+
+"QUIT" = "Beenden";
+"QUIT_AREYOUSURE" = "Wollen Sie das aktuelle Spiel wirklich beenden?";
+
+"ANONYMOUS" = "Ohne Namen";
+
+"GAME_OVER" = "Spielende";
+"FINAL_SCORE" = "Endergebnis: %d";
+
+"LEVEL_CLEARED" = "Stufe %d geräumt";
+"BONUS_POINTS" = "%d Bonuspunkte!";
+"NO_BONUS" = "Diesmal leider keine Bonuspunkte";
+"HS_LEVEL" = "Stufe: %@";
+
+"SHAKE_UP" = "Shake!";
+"CAN_UNDO" = "Ändern Sie die Pfeilrichtungen oder machen Sie Ihren letzten Zug rückgängig.";
+"NO_CAN_UNDO" = "Pfeilrichtungen ändern?";
+"SHAKES_LEFT" = "%@\nSie haben noch %d Shakes.";
+"SHAKE_LEFT" = "%@\nSie haben noch einen Shake.";
+"NO_SHAKES" = "Sie haben keine Shakes mehr.";
+
+// FlipsideView strings
+"SOUND" = "Sound:";
+"DESIGNED_BY" = "Design und Illustration von MUR";
+"DEVELOPED_BY" = "Entwickelt von ciretose";
+"TEASER" = "Ein Spiel mit Quadraten, das süchtig macht. Seien Sie vorsichtig, sonst folgt dem Glück die Traurigkeit, der... Tod.";
+"SHAKES" = "Shakes:";
+"FACE" = "Gesicht:";
+"DEFAULT" = "Einfach";
+"CUTE" = "Niedlich";
+"OFF" = "Nein";
+
+// MainView strings
+"SCORE" = "PUNKTE";
+"LEVEL" = "STUFE";
+"SHAKE" = "SHAKES";
+"NEW_HIGH_SCORE" = "Neuer Rekord!";
+
+
+// HelpView strings
+"VISIT_WEBSITE" = "Webseite besuchen";

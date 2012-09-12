@@ -1,0 +1,67 @@
+﻿/* 
+   Localizable.strings
+   Squares
+
+   Created by Eric on 2/9/09.
+   Copyright 2009 ciretose. All rights reserved.
+ */
+
+"PRODUCT_NAME" = "Squares 方格子脸";
+
+"ABOUT" = "关于";
+"HELP" = "帮助";
+"HIGH_SCORES" = "高分表";
+
+"OK" = "OK";
+"CANCEL" = "取消";
+"YES" = "是";
+"NO" = "否";
+"CHANGE" = "改变";
+"UNDO" = "还原";
+
+"DELETE_HIGH_SCORES" = "删除高分表";
+"DELETE_AREYOUSURE" = "您确定要删除高分表吗?";
+
+"QUIT" = "离开";
+"QUIT_AREYOUSURE" = "您确定要离开游戏吗?";
+
+"ANONYMOUS" = "无名氏";
+ 
+"GAME_OVER" = "游戏结束";
+"FINAL_SCORE" = "最终得分: %d";
+
+"LEVEL_CLEARED" = "等级 %d 已清除";
+"BONUS_POINTS" = "%d 奖励点数!";
+"NO_BONUS" = "此时无奖励点数";
+"HS_LEVEL" = "等级: %@";
+
+"SHAKE_UP" = "摇动!";
+"CAN_UNDO" = "改变箭头方向或还原上一步.";
+"NO_CAN_UNDO" = "改变箭头方向?";
+"SHAKES_LEFT" = "%@\n您还有 %d 次摇动机会.";
+"SHAKE_LEFT" = "%@\n您还有一次摇动机会.";
+"NO_SHAKES" = "您已无摇动机会";
+
+// FlipsideView strings
+"SOUND" = "声音:";
+"FACE" = "脸型:";
+"DESIGNED_BY" = "设计与说明: MUR";
+"DEVELOPED_BY" = "开发: ciretose";
+"TEASER" = "Squares 迷人的地方是如果您一不小心笑脸就会变哭脸，然后就会结束游戏。";
+"DEFAULT" = "简单音";
+"CUTE" = "可爱音";
+"OFF" = "静音";
+
+
+// MainView strings
+"SCORE" = "得分";
+"LEVEL" = "等级";
+"SHAKE" = "摇动";
+"NEW_HIGH_SCORE" = "刷新最高分!";
+
+
+// HelpView strings
+"VISIT_WEBSITE" = "参观網站";
+
+	
+

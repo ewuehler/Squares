@@ -1,0 +1,66 @@
+﻿/* 
+   Localizable.strings
+   Squares
+
+   Created by Eric on 2/9/09.
+   Copyright 2009 ciretose. All rights reserved.
+ */
+
+"PRODUCT_NAME" = "Squares";
+
+"ABOUT" = "Squaresについて";
+"HELP" = "ヘルプ";
+"HIGH_SCORES" = "ハイスコア";
+
+"OK" = "OK";
+"CANCEL" = "キャンセル";
+"YES" = "はい";
+"NO" = "いいえ";
+"CHANGE" = "変更";
+"UNDO" = "やり直し";
+
+
+"DELETE_HIGH_SCORES" = "ハイスコアの消去";
+"DELETE_AREYOUSURE" = "本当にハイスコアを消去しますか？";
+
+"QUIT" = "終了";
+"QUIT_AREYOUSURE" = "現在のゲームを終了しますか？";
+
+"ANONYMOUS" = "名無しさん";
+
+"GAME_OVER" = "ゲームオーバー";
+"FINAL_SCORE" = "総得点: %d";
+
+"LEVEL_CLEARED" = "レベル %d をクリア";
+"BONUS_POINTS" = "ボーナス %d 点！";
+"NO_BONUS" = "今回はボーナスはありません";
+"HS_LEVEL" = "レベル: %@";
+
+"SHAKE_UP" = "シェイク！";
+"CAN_UNDO" = "矢印の向きを変えるか、直前の一手を取り消します";
+"NO_CAN_UNDO" = "矢印の向きを変えますか？";
+"SHAKES_LEFT" = "%@\n残りあと %d シェイク";
+"SHAKE_LEFT" = "%@\n残りあと 1 シェイク";
+"NO_SHAKES" = "シェイクは残っていません";
+
+// FlipsideView strings
+"SOUND" = "サウンド：";
+"DESIGNED_BY" = "デザイン＆イラスト by MUR";
+"DEVELOPED_BY" = "開発 by ciretose";
+"TEASER" = "めくってめくってシェイクする、くせになっちゃうパズルゲーム";
+"SHAKES" = "シェイク：";
+"FACE" = "フェイス:";
+"DEFAULT" = "シンプル";
+"CUTE" = "キュート";
+"OFF" = "切れて";
+
+// MainView strings
+"SCORE" = "スコア";
+"LEVEL" = "レベル";
+"SHAKE" = "シェイク";
+"NEW_HIGH_SCORE" = "ハイスコア更新！";
+
+
+// HelpView strings
+"VISIT_WEBSITE" = "サイトへ行ってみる";
+

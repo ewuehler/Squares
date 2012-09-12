@@ -1,0 +1,65 @@
+﻿/* 
+   Localizable.strings
+   Squares
+
+   Created by Eric on 2/9/09.
+   Copyright 2009 ciretose. All rights reserved.
+ */
+
+"PRODUCT_NAME" = "Squares";
+
+
+"ABOUT" = "Acerca de";
+"HELP" = "Ayuda";
+"HIGH_SCORES" = "Puntajes Altos";
+
+"OK" = "OK";
+"CANCEL" = "Cancelar";
+"YES" = "Sí";
+"NO" = "No";
+"CHANGE" = "Cambiar";
+"UNDO" = "Deshacer";
+
+
+"DELETE_HIGH_SCORES" = "Borrar";
+"DELETE_AREYOUSURE" = "¿Estás seguro que queires borrar los puntajes altos?";
+
+"QUIT" = "Dejar";
+"QUIT_AREYOUSURE" = "¿Estás seguro que quieres dejar el juego actual?";
+
+"ANONYMOUS" = "Yo";
+
+"GAME_OVER" = "Fin";
+"FINAL_SCORE" = "Puntaje final: %d";
+
+"LEVEL_CLEARED" = "Nivel %d pasado";
+"BONUS_POINTS" = "¡%d puntos de bonificación!";
+"NO_BONUS" = "No puntos de bonificación este nivel";
+"HS_LEVEL" = "Nivel: %@";
+
+"SHAKE_UP" = "¡Sacudir!";
+"CAN_UNDO" = "Cambie las direcciones de las flechas o deshaga el movimiento pasado.";
+"NO_CAN_UNDO" = "¿Cambie las direcciones de las flechas?";
+"SHAKES_LEFT" = "%@\nQuedan %d sacudidas.";
+"SHAKE_LEFT" = "%@\nQueda una sacudida más.";
+"NO_SHAKES" = "No queda ninguna sacudida más.";
+
+// FlipsideView strings
+"SOUND" = "Sonido:";
+"DESIGNED_BY" = "diseño e ilustración por MUR";
+"DEVELOPED_BY" = "desarrollado por ciretose";
+"TEASER" = "Un juego de estrategia sobre los cuadrados que, si no tienes cuidado puede ir de feliz, a triste... a muerto.";
+"SHAKES" = "Sacudir:";
+"FACE" = "Cara:";
+"DEFAULT" = "Simple";
+"CUTE" = "Pequeño";
+"OFF" = "No";
+
+// MainView strings
+"SCORE" = "PUNTOS";
+"LEVEL" = "NIVEL";
+"SHAKE" = "SACUDIR";
+"NEW_HIGH_SCORE" = "¡Puntaje más alto!";
+
+// HelpView strings
+"VISIT_WEBSITE" = "visite website";

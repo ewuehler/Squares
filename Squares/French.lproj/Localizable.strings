@@ -1,0 +1,65 @@
+﻿/* 
+   Localizable.strings
+   Squares
+
+   Created by Eric on 2/9/09.
+   Copyright 2009 ciretose. All rights reserved.
+ */
+
+"PRODUCT_NAME" = "carrés";
+
+"ABOUT" = "Au sujet de";
+"HELP" = "Aide";
+"HIGH_SCORES" = "Plus haut scores";
+
+"OK" = "OK";
+"CANCEL" = "Annuler";
+"YES" = "Oui";
+"NO" = "Non";
+"CHANGE" = "Changez";
+"UNDO" = "Annulez la dernière action";
+
+
+"DELETE_HIGH_SCORES" = "Effacez les plus haut scores";
+"DELETE_AREYOUSURE" = "Êtes-vous sûr de vouloire supprimer les plus haut scores?";
+
+"QUIT" = "Stoppez";
+"QUIT_AREYOUSURE" = "Êtes-vous sûr de vouloire stopper le jeu courant?";
+
+"ANONYMOUS" = "Anonyme";
+
+"GAME_OVER" = "Partie terminée";
+"FINAL_SCORE" = "Score final: %d";
+
+"LEVEL_CLEARED" = "Niveau %d completé";
+"BONUS_POINTS" = "%d points de bonus!";
+"NO_BONUS" = "Pas de point de bonus cette fois";
+"HS_LEVEL" = "Niveau: %@";
+
+"SHAKE_UP" = "Secouez!";
+"CAN_UNDO" = "Changez les directions de la flèche ou annuler votre derniere action.";
+"NO_CAN_UNDO" = "Voulez vous changer les directions de la fleche?";
+"SHAKES_LEFT" = "%@\nVous avez %d secousses restantes.";
+"SHAKE_LEFT" = "%@\nVous avez une secousse restante.";
+"NO_SHAKES" = "Vous n’avez plus de secousse restante";
+
+// FlipsideView strings
+"SOUND" = "Son:";
+"DESIGNED_BY" = "conception et illustration par MUR";
+"DEVELOPED_BY" = "developement par ciretose";
+"TEASER" = "Un jeu de stratégie addictive de carrés qui, si vous ne faites pas attention peut aller d'heureux, à triste, jusqu’a... mort.";
+"SHAKES" = "Shakes:";
+"FACE" = "Visage:";
+"DEFAULT" = "Simple";
+"CUTE" = "Mignon";
+"OFF" = "Non";
+
+// MainView strings
+"SCORE" = "SCORE";
+"LEVEL" = "NIVEAU";
+"SHAKE" = "SECOUE";
+"NEW_HIGH_SCORE" = "Nouveau plus haut score!";
+
+
+// HelpView strings
+"VISIT_WEBSITE" = "visitez notre site web";

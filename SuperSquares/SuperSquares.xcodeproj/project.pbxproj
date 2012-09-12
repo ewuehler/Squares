@@ -1,0 +1,482 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0701F0DC11C0B8A60065107C /* choose4.png in Resources */ = {isa = PBXBuildFile; fileRef = 0701F0D811C0B8A60065107C /* choose4.png */; };
+		0701F0DD11C0B8A60065107C /* choose6.png in Resources */ = {isa = PBXBuildFile; fileRef = 0701F0D911C0B8A60065107C /* choose6.png */; };
+		0701F0DE11C0B8A60065107C /* choose8.png in Resources */ = {isa = PBXBuildFile; fileRef = 0701F0DA11C0B8A60065107C /* choose8.png */; };
+		0701F0DF11C0B8A60065107C /* choose10.png in Resources */ = {isa = PBXBuildFile; fileRef = 0701F0DB11C0B8A60065107C /* choose10.png */; };
+		07078C8A12D443D300AA0821 /* InfoViewControllerX.xib in Resources */ = {isa = PBXBuildFile; fileRef = 07078C8912D443D300AA0821 /* InfoViewControllerX.xib */; };
+		07078C8C12D443E900AA0821 /* HelpViewControllerX.xib in Resources */ = {isa = PBXBuildFile; fileRef = 07078C8B12D443E900AA0821 /* HelpViewControllerX.xib */; };
+		07078C8E12D443FA00AA0821 /* HelpPageViewControllerX.xib in Resources */ = {isa = PBXBuildFile; fileRef = 07078C8D12D443FA00AA0821 /* HelpPageViewControllerX.xib */; };
+		07078C9012D4440800AA0821 /* HighScoreViewControllerX.xib in Resources */ = {isa = PBXBuildFile; fileRef = 07078C8F12D4440800AA0821 /* HighScoreViewControllerX.xib */; };
+		07078C9212D4441500AA0821 /* SetupViewControllerX.xib in Resources */ = {isa = PBXBuildFile; fileRef = 07078C9112D4441500AA0821 /* SetupViewControllerX.xib */; };
+		0728890911C0AF35006467F0 /* green.png in Resources */ = {isa = PBXBuildFile; fileRef = 072888FF11C0AF35006467F0 /* green.png */; };
+		0728890A11C0AF35006467F0 /* red.png in Resources */ = {isa = PBXBuildFile; fileRef = 0728890011C0AF35006467F0 /* red.png */; };
+		0728890B11C0AF35006467F0 /* whitee.png in Resources */ = {isa = PBXBuildFile; fileRef = 0728890111C0AF35006467F0 /* whitee.png */; };
+		0728890C11C0AF35006467F0 /* whiten.png in Resources */ = {isa = PBXBuildFile; fileRef = 0728890211C0AF35006467F0 /* whiten.png */; };
+		0728890D11C0AF35006467F0 /* whitenw.png in Resources */ = {isa = PBXBuildFile; fileRef = 0728890311C0AF35006467F0 /* whitenw.png */; };
+		0728890E11C0AF35006467F0 /* whites.png in Resources */ = {isa = PBXBuildFile; fileRef = 0728890411C0AF35006467F0 /* whites.png */; };
+		0728890F11C0AF35006467F0 /* whitese.png in Resources */ = {isa = PBXBuildFile; fileRef = 0728890511C0AF35006467F0 /* whitese.png */; };
+		0728891011C0AF35006467F0 /* whitesw.png in Resources */ = {isa = PBXBuildFile; fileRef = 0728890611C0AF35006467F0 /* whitesw.png */; };
+		0728891111C0AF35006467F0 /* whitew.png in Resources */ = {isa = PBXBuildFile; fileRef = 0728890711C0AF35006467F0 /* whitew.png */; };
+		0728891211C0AF35006467F0 /* yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = 0728890811C0AF35006467F0 /* yellow.png */; };
+		07298F5211CA7A49003F05A2 /* InfoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 07298F5111CA7A49003F05A2 /* InfoViewController.xib */; };
+		07298F5511CA7D44003F05A2 /* InfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 07298F5411CA7D44003F05A2 /* InfoViewController.m */; };
+		0741E60111CBF0F500F91B20 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 0741E60011CBF0F500F91B20 /* background.png */; };
+		0741E60511CBF3A900F91B20 /* 3x3bkg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0741E60411CBF3A900F91B20 /* 3x3bkg.png */; };
+		0741E61E11CC0BE200F91B20 /* ciretoselogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 0741E61C11CC0BE200F91B20 /* ciretoselogo.png */; };
+		0741E61F11CC0BE200F91B20 /* mur.png in Resources */ = {isa = PBXBuildFile; fileRef = 0741E61D11CC0BE200F91B20 /* mur.png */; };
+		076217FF11C752B9001C0537 /* title.png in Resources */ = {isa = PBXBuildFile; fileRef = 076217FE11C752B9001C0537 /* title.png */; };
+		076457CC11E7F126004ECE63 /* SetupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 076457CB11E7F126004ECE63 /* SetupViewController.m */; };
+		076457CE11E7F137004ECE63 /* SetupViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 076457CD11E7F137004ECE63 /* SetupViewController.xib */; };
+		0775425C11D1D95B00608AFF /* HelpViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0775425B11D1D95B00608AFF /* HelpViewController.xib */; };
+		0775425F11D1D96E00608AFF /* HelpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0775425E11D1D96E00608AFF /* HelpViewController.m */; };
+		079B41D811CD6ABD00EEC81A /* LevelIndicator.m in Sources */ = {isa = PBXBuildFile; fileRef = 079B41D711CD6ABD00EEC81A /* LevelIndicator.m */; };
+		079B41E011CD6D3600EEC81A /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 079B41DF11CD6D3600EEC81A /* QuartzCore.framework */; };
+		079B7B6111C09FC700C7F260 /* whitene.png in Resources */ = {isa = PBXBuildFile; fileRef = 079B7B6011C09FC700C7F260 /* whitene.png */; };
+		079B7B8C11C0A1CC00C7F260 /* Square.m in Sources */ = {isa = PBXBuildFile; fileRef = 079B7B8B11C0A1CC00C7F260 /* Square.m */; };
+		07A6CC6C11DB0D950098C5A8 /* HighScoreViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 07A6CC6B11DB0D950098C5A8 /* HighScoreViewController.xib */; };
+		07A6CC6F11DB0DA40098C5A8 /* HighScoreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 07A6CC6E11DB0DA40098C5A8 /* HighScoreViewController.m */; };
+		07BBCD0611D9AEAE00869E9A /* HelpPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCD0511D9AEAE00869E9A /* HelpPageViewController.m */; };
+		07BBCD1F11D9B15600869E9A /* HelpPageViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 07BBCD1E11D9B15600869E9A /* HelpPageViewController.xib */; };
+		07DA5C1011C1E777008529F3 /* DataBox.m in Sources */ = {isa = PBXBuildFile; fileRef = 07DA5C0F11C1E777008529F3 /* DataBox.m */; };
+		07DA5C5611C1F6AD008529F3 /* Icon128.png in Resources */ = {isa = PBXBuildFile; fileRef = 07DA5C5511C1F6AD008529F3 /* Icon128.png */; };
+		1D3623260D0F684500981E51 /* SuperSquaresAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* SuperSquaresAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		2899E5220DE3E06400AC0155 /* SuperSquaresViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* SuperSquaresViewController.xib */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D7ACF80DDB3853001CB0EB /* SuperSquaresViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* SuperSquaresViewController.m */; };
+		7BFA113A12D3DDB9006C30C3 /* MainWindowX.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7BFA113912D3DDB9006C30C3 /* MainWindowX.xib */; };
+		7BFA113C12D3DDCA006C30C3 /* SuperSquaresViewControllerX.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7BFA113B12D3DDCA006C30C3 /* SuperSquaresViewControllerX.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0701F0D811C0B8A60065107C /* choose4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = choose4.png; sourceTree = "<group>"; };
+		0701F0D911C0B8A60065107C /* choose6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = choose6.png; sourceTree = "<group>"; };
+		0701F0DA11C0B8A60065107C /* choose8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = choose8.png; sourceTree = "<group>"; };
+		0701F0DB11C0B8A60065107C /* choose10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = choose10.png; sourceTree = "<group>"; };
+		07078C8912D443D300AA0821 /* InfoViewControllerX.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = InfoViewControllerX.xib; sourceTree = "<group>"; };
+		07078C8B12D443E900AA0821 /* HelpViewControllerX.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HelpViewControllerX.xib; sourceTree = "<group>"; };
+		07078C8D12D443FA00AA0821 /* HelpPageViewControllerX.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HelpPageViewControllerX.xib; sourceTree = "<group>"; };
+		07078C8F12D4440800AA0821 /* HighScoreViewControllerX.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HighScoreViewControllerX.xib; sourceTree = "<group>"; };
+		07078C9112D4441500AA0821 /* SetupViewControllerX.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SetupViewControllerX.xib; sourceTree = "<group>"; };
+		072888FF11C0AF35006467F0 /* green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = green.png; sourceTree = "<group>"; };
+		0728890011C0AF35006467F0 /* red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red.png; sourceTree = "<group>"; };
+		0728890111C0AF35006467F0 /* whitee.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitee.png; sourceTree = "<group>"; };
+		0728890211C0AF35006467F0 /* whiten.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whiten.png; sourceTree = "<group>"; };
+		0728890311C0AF35006467F0 /* whitenw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitenw.png; sourceTree = "<group>"; };
+		0728890411C0AF35006467F0 /* whites.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whites.png; sourceTree = "<group>"; };
+		0728890511C0AF35006467F0 /* whitese.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitese.png; sourceTree = "<group>"; };
+		0728890611C0AF35006467F0 /* whitesw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitesw.png; sourceTree = "<group>"; };
+		0728890711C0AF35006467F0 /* whitew.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitew.png; sourceTree = "<group>"; };
+		0728890811C0AF35006467F0 /* yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yellow.png; sourceTree = "<group>"; };
+		07298F5111CA7A49003F05A2 /* InfoViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = InfoViewController.xib; sourceTree = "<group>"; };
+		07298F5311CA7D44003F05A2 /* InfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfoViewController.h; sourceTree = "<group>"; };
+		07298F5411CA7D44003F05A2 /* InfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfoViewController.m; sourceTree = "<group>"; };
+		0741E59511CBD71600F91B20 /* GameStateDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameStateDelegate.h; sourceTree = "<group>"; };
+		0741E60011CBF0F500F91B20 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		0741E60411CBF3A900F91B20 /* 3x3bkg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3x3bkg.png; sourceTree = "<group>"; };
+		0741E61C11CC0BE200F91B20 /* ciretoselogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ciretoselogo.png; sourceTree = "<group>"; };
+		0741E61D11CC0BE200F91B20 /* mur.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mur.png; sourceTree = "<group>"; };
+		076217FE11C752B9001C0537 /* title.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title.png; sourceTree = "<group>"; };
+		076457CA11E7F126004ECE63 /* SetupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SetupViewController.h; sourceTree = "<group>"; };
+		076457CB11E7F126004ECE63 /* SetupViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SetupViewController.m; sourceTree = "<group>"; };
+		076457CD11E7F137004ECE63 /* SetupViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SetupViewController.xib; sourceTree = "<group>"; };
+		0775425B11D1D95B00608AFF /* HelpViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HelpViewController.xib; sourceTree = "<group>"; };
+		0775425D11D1D96E00608AFF /* HelpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelpViewController.h; sourceTree = "<group>"; };
+		0775425E11D1D96E00608AFF /* HelpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelpViewController.m; sourceTree = "<group>"; };
+		079B41D611CD6ABD00EEC81A /* LevelIndicator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LevelIndicator.h; sourceTree = "<group>"; };
+		079B41D711CD6ABD00EEC81A /* LevelIndicator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LevelIndicator.m; sourceTree = "<group>"; };
+		079B41DF11CD6D3600EEC81A /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		079B7B6011C09FC700C7F260 /* whitene.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitene.png; sourceTree = "<group>"; };
+		079B7B8A11C0A1CC00C7F260 /* Square.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Square.h; sourceTree = "<group>"; };
+		079B7B8B11C0A1CC00C7F260 /* Square.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Square.m; sourceTree = "<group>"; };
+		07A6CC6B11DB0D950098C5A8 /* HighScoreViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HighScoreViewController.xib; sourceTree = "<group>"; };
+		07A6CC6D11DB0DA40098C5A8 /* HighScoreViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HighScoreViewController.h; sourceTree = "<group>"; };
+		07A6CC6E11DB0DA40098C5A8 /* HighScoreViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HighScoreViewController.m; sourceTree = "<group>"; };
+		07BBCD0411D9AEAE00869E9A /* HelpPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelpPageViewController.h; sourceTree = "<group>"; };
+		07BBCD0511D9AEAE00869E9A /* HelpPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelpPageViewController.m; sourceTree = "<group>"; };
+		07BBCD1E11D9B15600869E9A /* HelpPageViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HelpPageViewController.xib; sourceTree = "<group>"; };
+		07DA5C0E11C1E777008529F3 /* DataBox.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataBox.h; sourceTree = "<group>"; };
+		07DA5C0F11C1E777008529F3 /* DataBox.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataBox.m; sourceTree = "<group>"; };
+		07DA5C5511C1F6AD008529F3 /* Icon128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon128.png; sourceTree = "<group>"; };
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* SuperSquaresAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SuperSquaresAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* SuperSquaresAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SuperSquaresAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* Son of Squares.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Son of Squares.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2899E5210DE3E06400AC0155 /* SuperSquaresViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SuperSquaresViewController.xib; sourceTree = "<group>"; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* SuperSquaresViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SuperSquaresViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* SuperSquaresViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SuperSquaresViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* SuperSquares_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SuperSquares_Prefix.pch; sourceTree = "<group>"; };
+		7BFA113912D3DDB9006C30C3 /* MainWindowX.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindowX.xib; sourceTree = "<group>"; };
+		7BFA113B12D3DDCA006C30C3 /* SuperSquaresViewControllerX.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SuperSquaresViewControllerX.xib; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* SuperSquares-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "SuperSquares-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+				079B41E011CD6D3600EEC81A /* QuartzCore.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		079B7B5C11C09F1B00C7F260 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				0741E61C11CC0BE200F91B20 /* ciretoselogo.png */,
+				0741E61D11CC0BE200F91B20 /* mur.png */,
+				0741E60411CBF3A900F91B20 /* 3x3bkg.png */,
+				0741E60011CBF0F500F91B20 /* background.png */,
+				076217FE11C752B9001C0537 /* title.png */,
+				07DA5C5511C1F6AD008529F3 /* Icon128.png */,
+				0701F0D811C0B8A60065107C /* choose4.png */,
+				0701F0D911C0B8A60065107C /* choose6.png */,
+				0701F0DA11C0B8A60065107C /* choose8.png */,
+				0701F0DB11C0B8A60065107C /* choose10.png */,
+				072888FF11C0AF35006467F0 /* green.png */,
+				0728890011C0AF35006467F0 /* red.png */,
+				0728890111C0AF35006467F0 /* whitee.png */,
+				0728890211C0AF35006467F0 /* whiten.png */,
+				0728890311C0AF35006467F0 /* whitenw.png */,
+				0728890411C0AF35006467F0 /* whites.png */,
+				0728890511C0AF35006467F0 /* whitese.png */,
+				0728890611C0AF35006467F0 /* whitesw.png */,
+				0728890711C0AF35006467F0 /* whitew.png */,
+				0728890811C0AF35006467F0 /* yellow.png */,
+				079B7B6011C09FC700C7F260 /* whitene.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* SuperSquaresAppDelegate.h */,
+				1D3623250D0F684500981E51 /* SuperSquaresAppDelegate.m */,
+				28D7ACF60DDB3853001CB0EB /* SuperSquaresViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* SuperSquaresViewController.m */,
+				079B7B8A11C0A1CC00C7F260 /* Square.h */,
+				079B7B8B11C0A1CC00C7F260 /* Square.m */,
+				07DA5C0E11C1E777008529F3 /* DataBox.h */,
+				07DA5C0F11C1E777008529F3 /* DataBox.m */,
+				07298F5311CA7D44003F05A2 /* InfoViewController.h */,
+				07298F5411CA7D44003F05A2 /* InfoViewController.m */,
+				0741E59511CBD71600F91B20 /* GameStateDelegate.h */,
+				079B41D611CD6ABD00EEC81A /* LevelIndicator.h */,
+				079B41D711CD6ABD00EEC81A /* LevelIndicator.m */,
+				0775425D11D1D96E00608AFF /* HelpViewController.h */,
+				0775425E11D1D96E00608AFF /* HelpViewController.m */,
+				07BBCD0411D9AEAE00869E9A /* HelpPageViewController.h */,
+				07BBCD0511D9AEAE00869E9A /* HelpPageViewController.m */,
+				07A6CC6D11DB0DA40098C5A8 /* HighScoreViewController.h */,
+				07A6CC6E11DB0DA40098C5A8 /* HighScoreViewController.m */,
+				076457CA11E7F126004ECE63 /* SetupViewController.h */,
+				076457CB11E7F126004ECE63 /* SetupViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* Son of Squares.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				079B7B5C11C09F1B00C7F260 /* Images */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* SuperSquares_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				7BFA113812D3DDA6006C30C3 /* iPhone */,
+				7BFA113712D3DCFE006C30C3 /* iPad */,
+				8D1107310486CEB800E47090 /* SuperSquares-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				079B41DF11CD6D3600EEC81A /* QuartzCore.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7BFA113712D3DCFE006C30C3 /* iPad */ = {
+			isa = PBXGroup;
+			children = (
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				2899E5210DE3E06400AC0155 /* SuperSquaresViewController.xib */,
+				07298F5111CA7A49003F05A2 /* InfoViewController.xib */,
+				0775425B11D1D95B00608AFF /* HelpViewController.xib */,
+				07BBCD1E11D9B15600869E9A /* HelpPageViewController.xib */,
+				07A6CC6B11DB0D950098C5A8 /* HighScoreViewController.xib */,
+				076457CD11E7F137004ECE63 /* SetupViewController.xib */,
+			);
+			name = iPad;
+			sourceTree = "<group>";
+		};
+		7BFA113812D3DDA6006C30C3 /* iPhone */ = {
+			isa = PBXGroup;
+			children = (
+				7BFA113912D3DDB9006C30C3 /* MainWindowX.xib */,
+				7BFA113B12D3DDCA006C30C3 /* SuperSquaresViewControllerX.xib */,
+				07078C8912D443D300AA0821 /* InfoViewControllerX.xib */,
+				07078C8B12D443E900AA0821 /* HelpViewControllerX.xib */,
+				07078C8D12D443FA00AA0821 /* HelpPageViewControllerX.xib */,
+				07078C8F12D4440800AA0821 /* HighScoreViewControllerX.xib */,
+				07078C9112D4441500AA0821 /* SetupViewControllerX.xib */,
+			);
+			name = iPhone;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* SuperSquares */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "SuperSquares" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SuperSquares;
+			productName = SuperSquares;
+			productReference = 1D6058910D05DD3D006BFB54 /* Son of Squares.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0440;
+				ORGANIZATIONNAME = ciretose;
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "SuperSquares" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = ..;
+			targets = (
+				1D6058900D05DD3D006BFB54 /* SuperSquares */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				2899E5220DE3E06400AC0155 /* SuperSquaresViewController.xib in Resources */,
+				079B7B6111C09FC700C7F260 /* whitene.png in Resources */,
+				0728890911C0AF35006467F0 /* green.png in Resources */,
+				0728890A11C0AF35006467F0 /* red.png in Resources */,
+				0728890B11C0AF35006467F0 /* whitee.png in Resources */,
+				0728890C11C0AF35006467F0 /* whiten.png in Resources */,
+				0728890D11C0AF35006467F0 /* whitenw.png in Resources */,
+				0728890E11C0AF35006467F0 /* whites.png in Resources */,
+				0728890F11C0AF35006467F0 /* whitese.png in Resources */,
+				0728891011C0AF35006467F0 /* whitesw.png in Resources */,
+				0728891111C0AF35006467F0 /* whitew.png in Resources */,
+				0728891211C0AF35006467F0 /* yellow.png in Resources */,
+				0701F0DC11C0B8A60065107C /* choose4.png in Resources */,
+				0701F0DD11C0B8A60065107C /* choose6.png in Resources */,
+				0701F0DE11C0B8A60065107C /* choose8.png in Resources */,
+				0701F0DF11C0B8A60065107C /* choose10.png in Resources */,
+				07DA5C5611C1F6AD008529F3 /* Icon128.png in Resources */,
+				076217FF11C752B9001C0537 /* title.png in Resources */,
+				07298F5211CA7A49003F05A2 /* InfoViewController.xib in Resources */,
+				0741E60111CBF0F500F91B20 /* background.png in Resources */,
+				0741E60511CBF3A900F91B20 /* 3x3bkg.png in Resources */,
+				0741E61E11CC0BE200F91B20 /* ciretoselogo.png in Resources */,
+				0741E61F11CC0BE200F91B20 /* mur.png in Resources */,
+				0775425C11D1D95B00608AFF /* HelpViewController.xib in Resources */,
+				07BBCD1F11D9B15600869E9A /* HelpPageViewController.xib in Resources */,
+				07A6CC6C11DB0D950098C5A8 /* HighScoreViewController.xib in Resources */,
+				076457CE11E7F137004ECE63 /* SetupViewController.xib in Resources */,
+				7BFA113A12D3DDB9006C30C3 /* MainWindowX.xib in Resources */,
+				7BFA113C12D3DDCA006C30C3 /* SuperSquaresViewControllerX.xib in Resources */,
+				07078C8A12D443D300AA0821 /* InfoViewControllerX.xib in Resources */,
+				07078C8C12D443E900AA0821 /* HelpViewControllerX.xib in Resources */,
+				07078C8E12D443FA00AA0821 /* HelpPageViewControllerX.xib in Resources */,
+				07078C9012D4440800AA0821 /* HighScoreViewControllerX.xib in Resources */,
+				07078C9212D4441500AA0821 /* SetupViewControllerX.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* SuperSquaresAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* SuperSquaresViewController.m in Sources */,
+				079B7B8C11C0A1CC00C7F260 /* Square.m in Sources */,
+				07DA5C1011C1E777008529F3 /* DataBox.m in Sources */,
+				07298F5511CA7D44003F05A2 /* InfoViewController.m in Sources */,
+				079B41D811CD6ABD00EEC81A /* LevelIndicator.m in Sources */,
+				0775425F11D1D96E00608AFF /* HelpViewController.m in Sources */,
+				07BBCD0611D9AEAE00869E9A /* HelpPageViewController.m in Sources */,
+				07A6CC6F11DB0DA40098C5A8 /* HighScoreViewController.m in Sources */,
+				076457CC11E7F126004ECE63 /* SetupViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SuperSquares_Prefix.pch;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INFOPLIST_FILE = "SuperSquares-Info.plist";
+				PRODUCT_NAME = "Son of Squares";
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SuperSquares_Prefix.pch;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INFOPLIST_FILE = "SuperSquares-Info.plist";
+				PRODUCT_NAME = "Son of Squares";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_VERSION = "";
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.2;
+				PRODUCT_NAME = Flipface;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_VERSION = "";
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.2;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PRODUCT_NAME = Flipface;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "SuperSquares" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "SuperSquares" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
