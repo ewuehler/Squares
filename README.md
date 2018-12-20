@@ -7,7 +7,13 @@ __/Squares__ is the original iPhone game
 
 __/SuperSquares__ was a follow on I started to support the iPad and has a number "what I learned" improvements from the original - however, it was never completed (and I still wouldn't use this as a good example of Objective-C). :)
 
-[YouTube Video](https://www.youtube.com/watch?v=txapQpNfnOI)
+## Original AppStore Images from 2009
+
+![Image1](pics/0x0ss.jpg) | ![Image2](pics/0x0ss-2.jpg) | ![Image3](pics/0x0ss-3.jpg)
+--- | --- | ---
+![Image4](pics/0x0ss-4.jpg) | ![Image5](pics/0x0ss-5.jpg) | You can even watch a [YouTube Video](https://www.youtube.com/watch?v=txapQpNfnOI)
+
+
 
 ## Reviews
 Here are a few reviews of **Squares!** from "back in the day"...
