@@ -1,7 +1,8 @@
-# Squares!
-![Squares!](Squares/title2.0.png)
+![Squares!](Squares/largeicon.png)
+
 
 __Squares!__  is a game I created initially just to learn Objective-C and iOS programming.  It's quite old, has been sitting dormant on my hard drive for quite a while.  I wouldn't use much (if any) of this as an example of good Objective-C...  I cleaned up a bit (read: _not much_) of the code and made sure it compiled with iOS 5 before uploading.  It did ok in the early days of the AppStore, but it was just a fun side project and I eventually ran out of time to keep it fresh and eventually pulled it from the AppStore when I just didn't think I could keep it up-to-date anymore.
+
 
 __/Squares__ is the original iPhone game
 
