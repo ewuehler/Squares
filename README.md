@@ -12,7 +12,7 @@ __/SuperSquares__ was a follow on I started to support the iPad and has a number
 
 ![Image1](pics/0x0ss.jpg) | ![Image2](pics/0x0ss-2.jpg) | ![Image3](pics/0x0ss-3.jpg)
 --- | --- | ---
-![Image4](pics/0x0ss-4.jpg) | ![Image5](pics/0x0ss-5.jpg) | You can even watch a [YouTube Video](https://www.youtube.com/watch?v=txapQpNfnOI)
+![Image4](pics/0x0ss-4.jpg) | ![Image5](pics/0x0ss-5.jpg) | [YouTube Video](https://www.youtube.com/watch?v=txapQpNfnOI) of Gameplay
 
 
 
